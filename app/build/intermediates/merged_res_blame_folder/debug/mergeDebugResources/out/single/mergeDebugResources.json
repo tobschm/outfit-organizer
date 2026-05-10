@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\tobia\\.gradle\\daemon\\8.13\\de.schmelzle.outfitorganizer.app-debug-49:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\tobia\\.gradle\\daemon\\8.13\\de.schmelzle.outfitorganizer.app-main-51:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "de.schmelzle.outfitorganizer.app-debug-49:/drawable_nikes_fits.png.flat",
+        "source": "de.schmelzle.outfitorganizer.app-main-51:/drawable/nikes_fits.png"
+    },
+    {
+        "merged": "C:\\Users\\tobia\\.gradle\\daemon\\8.13\\de.schmelzle.outfitorganizer.app-debug-49:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\tobia\\.gradle\\daemon\\8.13\\de.schmelzle.outfitorganizer.app-main-51:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\tobia\\.gradle\\daemon\\8.13\\de.schmelzle.outfitorganizer.app-debug-49:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\tobia\\.gradle\\daemon\\8.13\\de.schmelzle.outfitorganizer.app-main-51:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\tobia\\.gradle\\daemon\\8.13\\de.schmelzle.outfitorganizer.app-debug-49:\\drawable_nikes_fits.png.flat",
+        "source": "C:\\Users\\tobia\\.gradle\\daemon\\8.13\\de.schmelzle.outfitorganizer.app-main-51:\\drawable\\nikes_fits.png"
+    },
+    {
+        "merged": "C:\\Users\\tobia\\.gradle\\daemon\\8.13\\de.schmelzle.outfitorganizer.app-debug-49:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\tobia\\.gradle\\daemon\\8.13\\de.schmelzle.outfitorganizer.app-main-51:\\drawable\\ic_launcher_foreground.xml"
+    }
+]

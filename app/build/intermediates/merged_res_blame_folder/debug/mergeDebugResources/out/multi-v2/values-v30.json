@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "de.schmelzle.outfitorganizer.app-mergeDebugResources-47:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\tobia\\.gradle\\caches\\8.13\\transforms\\b959dceb6562f6bd5f4035a2f6465b2b\\transformed\\material3-release\\res\\values-v30\\values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}
