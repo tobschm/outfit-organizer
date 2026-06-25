@@ -8,5 +8,6 @@ enum class Tag(val label: String) {
     BEQUEM("Bequem"),
     SCHULE("Schule"),
     ELEGANT("Elegant"),
-    FEEL_GOOD("Feel-good")
+    FEEL_GOOD("Feel-good"),
+    SWEAT_PROOF("Sweat-proof")
 }
